@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387785077295",
+    "firebase_url": "https://exam-ff8fd.firebaseio.com",
+    "project_id": "exam-ff8fd",
+    "storage_bucket": "exam-ff8fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387785077295:android:2042bf6604b5340ca4ccda",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387785077295-naoci7cmh41kb2cigd4sharstp079qcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMIKIFGPMGhf1z72S_FFzAMNnc2vc5n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387785077295-naoci7cmh41kb2cigd4sharstp079qcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
